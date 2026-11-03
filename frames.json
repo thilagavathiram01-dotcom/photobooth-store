@@ -76,7 +76,9 @@
       "thumbnail_url": "frames/s23.png",
       "colour_code": "#F3B04A",
       "caption_colour_code": "#FFFFFF",
-      "model": "s23"
+      "model": "s23",
+      "thumbnail": "frames/s23.png",
+      "color_code": "#F3B04A"
     },
     {
       "id": "s18",
@@ -117,7 +119,9 @@
       "thumbnail_url": "frames/s18.png",
       "colour_code": "#6BB8E8",
       "caption_colour_code": "#FFFFFF",
-      "model": "s18"
+      "model": "s18",
+      "thumbnail": "frames/s18.png",
+      "color_code": "#6BB8E8"
     },
     {
       "id": "s22",
@@ -146,7 +150,9 @@
       "thumbnail_url": "frames/s22.png",
       "colour_code": "#8E7EF7",
       "caption_colour_code": "#FFFFFF",
-      "model": "s22"
+      "model": "s22",
+      "thumbnail": "frames/s22.png",
+      "color_code": "#8E7EF7"
     },
     {
       "id": "s8",
@@ -175,7 +181,9 @@
       "thumbnail_url": "frames/s8.png",
       "colour_code": "#9A9AA2",
       "caption_colour_code": "#FFFFFF",
-      "model": "s8"
+      "model": "s8",
+      "thumbnail": "frames/s8.png",
+      "color_code": "#9A9AA2"
     },
     {
       "id": "s14",
@@ -222,7 +230,9 @@
       "thumbnail_url": "frames/s14.png",
       "colour_code": "#7FA84E",
       "caption_colour_code": "#FFFFFF",
-      "model": "s14"
+      "model": "s14",
+      "thumbnail": "frames/s14.png",
+      "color_code": "#7FA84E"
     },
     {
       "id": "s17",
@@ -281,7 +291,9 @@
       "thumbnail_url": "frames/s17.png",
       "colour_code": "#E94568",
       "caption_colour_code": "#FFFFFF",
-      "model": "s17"
+      "model": "s17",
+      "thumbnail": "frames/s17.png",
+      "color_code": "#E94568"
     },
     {
       "id": "tictac",
@@ -316,7 +328,9 @@
       "thumbnail_url": "frames/tictac.png",
       "colour_code": "#8B2A2A",
       "caption_colour_code": "#7A2238",
-      "model": "tictac"
+      "model": "tictac",
+      "thumbnail": "frames/tictac.png",
+      "color_code": "#8B2A2A"
     },
     {
       "id": "goldfish",
@@ -357,7 +371,9 @@
       "thumbnail_url": "frames/goldfish.png",
       "colour_code": "#EEEEEA",
       "caption_colour_code": "#DDDDD8",
-      "model": "goldfish"
+      "model": "goldfish",
+      "thumbnail": "frames/goldfish.png",
+      "color_code": "#EEEEEA"
     },
     {
       "id": "stamps",
@@ -404,7 +420,9 @@
       "thumbnail_url": "frames/stamps.png",
       "colour_code": "#7A9A46",
       "caption_colour_code": "#6E3A5E",
-      "model": "stamps"
+      "model": "stamps",
+      "thumbnail": "frames/stamps.png",
+      "color_code": "#7A9A46"
     },
     {
       "id": "prism_pink",
@@ -445,7 +463,9 @@
       "thumbnail_url": "frames/prism_pink.png",
       "colour_code": "#E75BB0",
       "caption_colour_code": "#FFFFFF",
-      "model": "prism_pink"
+      "model": "prism_pink",
+      "thumbnail": "frames/prism_pink.png",
+      "color_code": "#E75BB0"
     },
     {
       "id": "prism_red",
@@ -486,7 +506,9 @@
       "thumbnail_url": "frames/prism_red.png",
       "colour_code": "#E14B4B",
       "caption_colour_code": "#FFFFFF",
-      "model": "prism_red"
+      "model": "prism_red",
+      "thumbnail": "frames/prism_red.png",
+      "color_code": "#E14B4B"
     },
     {
       "id": "friendship",
@@ -509,7 +531,9 @@
       "thumbnail_url": "frames/friendship.png",
       "colour_code": "#F0A8BF",
       "caption_colour_code": "#B96A66",
-      "model": "friendship"
+      "model": "friendship",
+      "thumbnail": "frames/friendship.png",
+      "color_code": "#F0A8BF"
     },
     {
       "id": "hboo1",
@@ -532,7 +556,9 @@
       "thumbnail_url": "frames/hboo1.png",
       "colour_code": "#F58A1F",
       "caption_colour_code": "#FFFFFF",
-      "model": "hboo1"
+      "model": "hboo1",
+      "thumbnail": "frames/hboo1.png",
+      "color_code": "#F58A1F"
     },
     {
       "id": "hboo3",
@@ -555,7 +581,9 @@
       "thumbnail_url": "frames/hboo3.png",
       "colour_code": "#F58A1F",
       "caption_colour_code": "#FFFFFF",
-      "model": "hboo3"
+      "model": "hboo3",
+      "thumbnail": "frames/hboo3.png",
+      "color_code": "#F58A1F"
     },
     {
       "id": "hboo4",
@@ -578,7 +606,9 @@
       "thumbnail_url": "frames/hboo4.png",
       "colour_code": "#F58A1F",
       "caption_colour_code": "#FFFFFF",
-      "model": "hboo4"
+      "model": "hboo4",
+      "thumbnail": "frames/hboo4.png",
+      "color_code": "#F58A1F"
     },
     {
       "id": "hboo5",
@@ -601,7 +631,9 @@
       "thumbnail_url": "frames/hboo5.png",
       "colour_code": "#F58A1F",
       "caption_colour_code": "#FFFFFF",
-      "model": "hboo5"
+      "model": "hboo5",
+      "thumbnail": "frames/hboo5.png",
+      "color_code": "#F58A1F"
     },
     {
       "id": "hboo7",
@@ -624,7 +656,9 @@
       "thumbnail_url": "frames/hboo7.png",
       "colour_code": "#F58A1F",
       "caption_colour_code": "#FFFFFF",
-      "model": "hboo7"
+      "model": "hboo7",
+      "thumbnail": "frames/hboo7.png",
+      "color_code": "#F58A1F"
     },
     {
       "id": "hboo8",
@@ -647,7 +681,9 @@
       "thumbnail_url": "frames/hboo8.png",
       "colour_code": "#F58A1F",
       "caption_colour_code": "#FFFFFF",
-      "model": "hboo8"
+      "model": "hboo8",
+      "thumbnail": "frames/hboo8.png",
+      "color_code": "#F58A1F"
     },
     {
       "id": "hboo9",
@@ -670,7 +706,9 @@
       "thumbnail_url": "frames/hboo9.png",
       "colour_code": "#F58A1F",
       "caption_colour_code": "#FFFFFF",
-      "model": "hboo9"
+      "model": "hboo9",
+      "thumbnail": "frames/hboo9.png",
+      "color_code": "#F58A1F"
     },
     {
       "id": "htreat1",
@@ -699,7 +737,9 @@
       "thumbnail_url": "frames/htreat1.png",
       "colour_code": "#F58A1F",
       "caption_colour_code": "#FFFFFF",
-      "model": "htreat1"
+      "model": "htreat1",
+      "thumbnail": "frames/htreat1.png",
+      "color_code": "#F58A1F"
     },
     {
       "id": "htreat2",
@@ -728,7 +768,9 @@
       "thumbnail_url": "frames/htreat2.png",
       "colour_code": "#F58A1F",
       "caption_colour_code": "#FFFFFF",
-      "model": "htreat2"
+      "model": "htreat2",
+      "thumbnail": "frames/htreat2.png",
+      "color_code": "#F58A1F"
     },
     {
       "id": "htreat3",
@@ -757,7 +799,9 @@
       "thumbnail_url": "frames/htreat3.png",
       "colour_code": "#F58A1F",
       "caption_colour_code": "#FFFFFF",
-      "model": "htreat3"
+      "model": "htreat3",
+      "thumbnail": "frames/htreat3.png",
+      "color_code": "#F58A1F"
     },
     {
       "id": "htreat4",
@@ -786,7 +830,9 @@
       "thumbnail_url": "frames/htreat4.png",
       "colour_code": "#F58A1F",
       "caption_colour_code": "#FFFFFF",
-      "model": "htreat4"
+      "model": "htreat4",
+      "thumbnail": "frames/htreat4.png",
+      "color_code": "#F58A1F"
     },
     {
       "id": "htreat5",
@@ -815,7 +861,9 @@
       "thumbnail_url": "frames/htreat5.png",
       "colour_code": "#F58A1F",
       "caption_colour_code": "#FFFFFF",
-      "model": "htreat5"
+      "model": "htreat5",
+      "thumbnail": "frames/htreat5.png",
+      "color_code": "#F58A1F"
     },
     {
       "id": "floral1",
@@ -838,7 +886,9 @@
       "thumbnail_url": "frames/floral1.png",
       "colour_code": "#C4385A",
       "caption_colour_code": "#7A2238",
-      "model": "floral1"
+      "model": "floral1",
+      "thumbnail": "frames/floral1.png",
+      "color_code": "#C4385A"
     },
     {
       "id": "floral3",
@@ -861,7 +911,9 @@
       "thumbnail_url": "frames/floral3.png",
       "colour_code": "#C4385A",
       "caption_colour_code": "#7A2238",
-      "model": "floral3"
+      "model": "floral3",
+      "thumbnail": "frames/floral3.png",
+      "color_code": "#C4385A"
     },
     {
       "id": "floral4",
@@ -884,7 +936,9 @@
       "thumbnail_url": "frames/floral4.png",
       "colour_code": "#C4385A",
       "caption_colour_code": "#7A2238",
-      "model": "floral4"
+      "model": "floral4",
+      "thumbnail": "frames/floral4.png",
+      "color_code": "#C4385A"
     },
     {
       "id": "floral5",
@@ -907,7 +961,9 @@
       "thumbnail_url": "frames/floral5.png",
       "colour_code": "#C4385A",
       "caption_colour_code": "#7A2238",
-      "model": "floral5"
+      "model": "floral5",
+      "thumbnail": "frames/floral5.png",
+      "color_code": "#C4385A"
     },
     {
       "id": "floral6",
@@ -930,7 +986,9 @@
       "thumbnail_url": "frames/floral6.png",
       "colour_code": "#C4385A",
       "caption_colour_code": "#7A2238",
-      "model": "floral6"
+      "model": "floral6",
+      "thumbnail": "frames/floral6.png",
+      "color_code": "#C4385A"
     },
     {
       "id": "floral7",
@@ -953,7 +1011,9 @@
       "thumbnail_url": "frames/floral7.png",
       "colour_code": "#C4385A",
       "caption_colour_code": "#7A2238",
-      "model": "floral7"
+      "model": "floral7",
+      "thumbnail": "frames/floral7.png",
+      "color_code": "#C4385A"
     },
     {
       "id": "bunny1",
@@ -982,7 +1042,9 @@
       "thumbnail_url": "frames/bunny1.png",
       "colour_code": "#EF9A97",
       "caption_colour_code": "#B96A66",
-      "model": "bunny1"
+      "model": "bunny1",
+      "thumbnail": "frames/bunny1.png",
+      "color_code": "#EF9A97"
     },
     {
       "id": "bunny2",
@@ -1011,7 +1073,9 @@
       "thumbnail_url": "frames/bunny2.png",
       "colour_code": "#EF9A97",
       "caption_colour_code": "#B96A66",
-      "model": "bunny2"
+      "model": "bunny2",
+      "thumbnail": "frames/bunny2.png",
+      "color_code": "#EF9A97"
     },
     {
       "id": "bunny3",
@@ -1040,7 +1104,9 @@
       "thumbnail_url": "frames/bunny3.png",
       "colour_code": "#EF9A97",
       "caption_colour_code": "#B96A66",
-      "model": "bunny3"
+      "model": "bunny3",
+      "thumbnail": "frames/bunny3.png",
+      "color_code": "#EF9A97"
     },
     {
       "id": "bunny4",
@@ -1069,7 +1135,9 @@
       "thumbnail_url": "frames/bunny4.png",
       "colour_code": "#EF9A97",
       "caption_colour_code": "#B96A66",
-      "model": "bunny4"
+      "model": "bunny4",
+      "thumbnail": "frames/bunny4.png",
+      "color_code": "#EF9A97"
     },
     {
       "id": "bunny5",
@@ -1098,7 +1166,9 @@
       "thumbnail_url": "frames/bunny5.png",
       "colour_code": "#EF9A97",
       "caption_colour_code": "#B96A66",
-      "model": "bunny5"
+      "model": "bunny5",
+      "thumbnail": "frames/bunny5.png",
+      "color_code": "#EF9A97"
     },
     {
       "id": "meow1",
@@ -1133,7 +1203,9 @@
       "thumbnail_url": "frames/meow1.png",
       "colour_code": "#111111",
       "caption_colour_code": "#FFFFFF",
-      "model": "meow1"
+      "model": "meow1",
+      "thumbnail": "frames/meow1.png",
+      "color_code": "#111111"
     },
     {
       "id": "meow2",
@@ -1168,7 +1240,9 @@
       "thumbnail_url": "frames/meow2.png",
       "colour_code": "#111111",
       "caption_colour_code": "#FFFFFF",
-      "model": "meow2"
+      "model": "meow2",
+      "thumbnail": "frames/meow2.png",
+      "color_code": "#111111"
     },
     {
       "id": "meow4",
@@ -1203,7 +1277,9 @@
       "thumbnail_url": "frames/meow4.png",
       "colour_code": "#111111",
       "caption_colour_code": "#FFFFFF",
-      "model": "meow4"
+      "model": "meow4",
+      "thumbnail": "frames/meow4.png",
+      "color_code": "#111111"
     },
     {
       "id": "starry1",
@@ -1244,7 +1320,9 @@
       "thumbnail_url": "frames/starry1.png",
       "colour_code": "#22335C",
       "caption_colour_code": "#FFE08A",
-      "model": "starry1"
+      "model": "starry1",
+      "thumbnail": "frames/starry1.png",
+      "color_code": "#22335C"
     },
     {
       "id": "starry2",
@@ -1285,7 +1363,9 @@
       "thumbnail_url": "frames/starry2.png",
       "colour_code": "#22335C",
       "caption_colour_code": "#FFE08A",
-      "model": "starry2"
+      "model": "starry2",
+      "thumbnail": "frames/starry2.png",
+      "color_code": "#22335C"
     },
     {
       "id": "polaroid-600-white",
@@ -1308,7 +1388,9 @@
       "thumbnail_url": "frames/polaroid-600-white.png",
       "colour_code": "#FBFBF8",
       "caption_colour_code": "#606060",
-      "model": "polaroid-600-white"
+      "model": "polaroid-600-white",
+      "thumbnail": "frames/polaroid-600-white.png",
+      "color_code": "#FBFBF8"
     },
     {
       "id": "polaroid-go-white",
@@ -1331,7 +1413,9 @@
       "thumbnail_url": "frames/polaroid-go-white.png",
       "colour_code": "#FBFBF8",
       "caption_colour_code": "#606060",
-      "model": "polaroid-go-white"
+      "model": "polaroid-go-white",
+      "thumbnail": "frames/polaroid-go-white.png",
+      "color_code": "#FBFBF8"
     },
     {
       "id": "instax-mini-white",
@@ -1354,7 +1438,9 @@
       "thumbnail_url": "frames/instax-mini-white.png",
       "colour_code": "#FBFBF8",
       "caption_colour_code": "#606060",
-      "model": "instax-mini-white"
+      "model": "instax-mini-white",
+      "thumbnail": "frames/instax-mini-white.png",
+      "color_code": "#FBFBF8"
     },
     {
       "id": "instax-square-white",
@@ -1377,7 +1463,9 @@
       "thumbnail_url": "frames/instax-square-white.png",
       "colour_code": "#FBFBF8",
       "caption_colour_code": "#606060",
-      "model": "instax-square-white"
+      "model": "instax-square-white",
+      "thumbnail": "frames/instax-square-white.png",
+      "color_code": "#FBFBF8"
     },
     {
       "id": "instax-wide-white",
@@ -1400,7 +1488,9 @@
       "thumbnail_url": "frames/instax-wide-white.png",
       "colour_code": "#FBFBF8",
       "caption_colour_code": "#606060",
-      "model": "instax-wide-white"
+      "model": "instax-wide-white",
+      "thumbnail": "frames/instax-wide-white.png",
+      "color_code": "#FBFBF8"
     },
     {
       "id": "mariage-roseraie",
@@ -1429,7 +1519,9 @@
       "thumbnail_url": "frames/mariage-roseraie.png",
       "colour_code": "#FFFFFF",
       "caption_colour_code": "#FFFFFF",
-      "model": "mariage-roseraie"
+      "model": "mariage-roseraie",
+      "thumbnail": "frames/mariage-roseraie.png",
+      "color_code": "#FFFFFF"
     },
     {
       "id": "mariage-or-ivoire-strip",
@@ -1470,7 +1562,9 @@
       "thumbnail_url": "frames/mariage-or-ivoire-strip.png",
       "colour_code": "#FFFFFF",
       "caption_colour_code": "#FFFFFF",
-      "model": "mariage-or-ivoire-strip"
+      "model": "mariage-or-ivoire-strip",
+      "thumbnail": "frames/mariage-or-ivoire-strip.png",
+      "color_code": "#FFFFFF"
     },
     {
       "id": "mariage-just-married",
@@ -1499,7 +1593,9 @@
       "thumbnail_url": "frames/mariage-just-married.png",
       "colour_code": "#FFFFFF",
       "caption_colour_code": "#FFFFFF",
-      "model": "mariage-just-married"
+      "model": "mariage-just-married",
+      "thumbnail": "frames/mariage-just-married.png",
+      "color_code": "#FFFFFF"
     },
     {
       "id": "anniv-chrome-y2k",
@@ -1528,7 +1624,9 @@
       "thumbnail_url": "frames/anniv-chrome-y2k.png",
       "colour_code": "#FFFFFF",
       "caption_colour_code": "#FFFFFF",
-      "model": "anniv-chrome-y2k"
+      "model": "anniv-chrome-y2k",
+      "thumbnail": "frames/anniv-chrome-y2k.png",
+      "color_code": "#FFFFFF"
     },
     {
       "id": "soiree-neon",
@@ -1557,7 +1655,9 @@
       "thumbnail_url": "frames/soiree-neon.png",
       "colour_code": "#FFFFFF",
       "caption_colour_code": "#FFFFFF",
-      "model": "soiree-neon"
+      "model": "soiree-neon",
+      "thumbnail": "frames/soiree-neon.png",
+      "color_code": "#FFFFFF"
     },
     {
       "id": "halloween-nuit-hantee",
@@ -1586,7 +1686,9 @@
       "thumbnail_url": "frames/halloween-nuit-hantee.png",
       "colour_code": "#FFFFFF",
       "caption_colour_code": "#FFFFFF",
-      "model": "halloween-nuit-hantee"
+      "model": "halloween-nuit-hantee",
+      "thumbnail": "frames/halloween-nuit-hantee.png",
+      "color_code": "#FFFFFF"
     },
     {
       "id": "elegant-horizontal",
@@ -1621,7 +1723,9 @@
       "thumbnail_url": "frames/frame-elegant-horizontal.png",
       "colour_code": "#BCA97C",
       "caption_colour_code": "#BCA97C",
-      "model": "elegant-horizontal"
+      "model": "elegant-horizontal",
+      "thumbnail": "frames/frame-elegant-horizontal.png",
+      "color_code": "#BCA97C"
     },
     {
       "id": "modern-horizontal",
@@ -1656,7 +1760,9 @@
       "thumbnail_url": "frames/frame-modern-horizontal.png",
       "colour_code": "#3FD9F2",
       "caption_colour_code": "#3FD9F2",
-      "model": "modern-horizontal"
+      "model": "modern-horizontal",
+      "thumbnail": "frames/frame-modern-horizontal.png",
+      "color_code": "#3FD9F2"
     },
     {
       "id": "floral-scrap",
@@ -1679,7 +1785,9 @@
       "thumbnail_url": "frames/floral-scrap.png",
       "colour_code": "#E25F9E",
       "caption_colour_code": "#FFFFFF",
-      "model": "floral-scrap"
+      "model": "floral-scrap",
+      "thumbnail": "frames/floral-scrap.png",
+      "color_code": "#E25F9E"
     },
     {
       "id": "starry-postcard",
@@ -1702,7 +1810,9 @@
       "thumbnail_url": "frames/starry-postcard.png",
       "colour_code": "#8C86E8",
       "caption_colour_code": "#FFFFFF",
-      "model": "starry-postcard"
+      "model": "starry-postcard",
+      "thumbnail": "frames/starry-postcard.png",
+      "color_code": "#8C86E8"
     },
     {
       "id": "rainbow-boardwalk",
@@ -1725,7 +1835,9 @@
       "thumbnail_url": "frames/rainbow-boardwalk.png",
       "colour_code": "#4FB8DC",
       "caption_colour_code": "#FFFFFF",
-      "model": "rainbow-boardwalk"
+      "model": "rainbow-boardwalk",
+      "thumbnail": "frames/rainbow-boardwalk.png",
+      "color_code": "#4FB8DC"
     },
     {
       "id": "cherry-bloom",
@@ -1766,7 +1878,9 @@
       "thumbnail_url": "frames/cherry-bloom.png",
       "colour_code": "#D14D72",
       "caption_colour_code": "#FFFFFF",
-      "model": "cherry-bloom"
+      "model": "cherry-bloom",
+      "thumbnail": "frames/cherry-bloom.png",
+      "color_code": "#D14D72"
     },
     {
       "id": "retro-frame",
@@ -1807,7 +1921,9 @@
       "thumbnail_url": "frames/retro-frame.png",
       "colour_code": "#D97757",
       "caption_colour_code": "#FFFFFF",
-      "model": "retro-frame"
+      "model": "retro-frame",
+      "thumbnail": "frames/retro-frame.png",
+      "color_code": "#D97757"
     },
     {
       "id": "minty-grid",
@@ -1848,7 +1964,9 @@
       "thumbnail_url": "frames/minty-grid.png",
       "colour_code": "#22D3EE",
       "caption_colour_code": "#1A1A1A",
-      "model": "minty-grid"
+      "model": "minty-grid",
+      "thumbnail": "frames/minty-grid.png",
+      "color_code": "#22D3EE"
     },
     {
       "id": "lilac-dream",
@@ -1889,7 +2007,9 @@
       "thumbnail_url": "frames/lilac-dream.png",
       "colour_code": "#C084FC",
       "caption_colour_code": "#FFFFFF",
-      "model": "lilac-dream"
+      "model": "lilac-dream",
+      "thumbnail": "frames/lilac-dream.png",
+      "color_code": "#C084FC"
     },
     {
       "id": "neon-strips",
@@ -1930,7 +2050,9 @@
       "thumbnail_url": "frames/neon-strips.png",
       "colour_code": "#FF3CAC",
       "caption_colour_code": "#FFFFFF",
-      "model": "neon-strips"
+      "model": "neon-strips",
+      "thumbnail": "frames/neon-strips.png",
+      "color_code": "#FF3CAC"
     },
     {
       "id": "strawberry-syrup",
@@ -1971,7 +2093,9 @@
       "thumbnail_url": "frames/strawberry-syrup.png",
       "colour_code": "#FB7185",
       "caption_colour_code": "#FFFFFF",
-      "model": "strawberry-syrup"
+      "model": "strawberry-syrup",
+      "thumbnail": "frames/strawberry-syrup.png",
+      "color_code": "#FB7185"
     },
     {
       "id": "kawaii-stars",
@@ -2012,7 +2136,9 @@
       "thumbnail_url": "frames/kawaii-stars.png",
       "colour_code": "#F59E0B",
       "caption_colour_code": "#FFFFFF",
-      "model": "kawaii-stars"
+      "model": "kawaii-stars",
+      "thumbnail": "frames/kawaii-stars.png",
+      "color_code": "#F59E0B"
     },
     {
       "id": "bubble-gum",
@@ -2053,7 +2179,9 @@
       "thumbnail_url": "frames/bubble-gum.png",
       "colour_code": "#EC4899",
       "caption_colour_code": "#FFFFFF",
-      "model": "bubble-gum"
+      "model": "bubble-gum",
+      "thumbnail": "frames/bubble-gum.png",
+      "color_code": "#EC4899"
     },
     {
       "id": "polka-rainbow",
@@ -2088,7 +2216,9 @@
       "thumbnail_url": "frames/polka-rainbow.png",
       "colour_code": "#F472B6",
       "caption_colour_code": "#FFFFFF",
-      "model": "polka-rainbow"
+      "model": "polka-rainbow",
+      "thumbnail": "frames/polka-rainbow.png",
+      "color_code": "#F472B6"
     },
     {
       "id": "y2k-circuit",
@@ -2129,7 +2259,9 @@
       "thumbnail_url": "frames/y2k-circuit.png",
       "colour_code": "#06B6D4",
       "caption_colour_code": "#FFFFFF",
-      "model": "y2k-circuit"
+      "model": "y2k-circuit",
+      "thumbnail": "frames/y2k-circuit.png",
+      "color_code": "#06B6D4"
     },
     {
       "id": "sparkle-hearts",
@@ -2170,7 +2302,9 @@
       "thumbnail_url": "frames/sparkle-hearts.png",
       "colour_code": "#F472B6",
       "caption_colour_code": "#FFFFFF",
-      "model": "sparkle-hearts"
+      "model": "sparkle-hearts",
+      "thumbnail": "frames/sparkle-hearts.png",
+      "color_code": "#F472B6"
     },
     {
       "id": "hologram-grid",
@@ -2211,7 +2345,9 @@
       "thumbnail_url": "frames/hologram-grid.png",
       "colour_code": "#22D3EE",
       "caption_colour_code": "#FFFFFF",
-      "model": "hologram-grid"
+      "model": "hologram-grid",
+      "thumbnail": "frames/hologram-grid.png",
+      "color_code": "#22D3EE"
     },
     {
       "id": "pixel-stars",
@@ -2252,7 +2388,9 @@
       "thumbnail_url": "frames/pixel-stars.png",
       "colour_code": "#A3E635",
       "caption_colour_code": "#1A1A1A",
-      "model": "pixel-stars"
+      "model": "pixel-stars",
+      "thumbnail": "frames/pixel-stars.png",
+      "color_code": "#A3E635"
     },
     {
       "id": "chic-doodle",
@@ -2293,7 +2431,9 @@
       "thumbnail_url": "frames/chic-doodle.png",
       "colour_code": "#EC4899",
       "caption_colour_code": "#FFFFFF",
-      "model": "chic-doodle"
+      "model": "chic-doodle",
+      "thumbnail": "frames/chic-doodle.png",
+      "color_code": "#EC4899"
     },
     {
       "id": "galaxy-frame",
@@ -2334,7 +2474,9 @@
       "thumbnail_url": "frames/galaxy-frame.png",
       "colour_code": "#6366F1",
       "caption_colour_code": "#FFFFFF",
-      "model": "galaxy-frame"
+      "model": "galaxy-frame",
+      "thumbnail": "frames/galaxy-frame.png",
+      "color_code": "#6366F1"
     },
     {
       "id": "candy-stripe",
@@ -2375,7 +2517,9 @@
       "thumbnail_url": "frames/candy-stripe.png",
       "colour_code": "#FB7185",
       "caption_colour_code": "#FFFFFF",
-      "model": "candy-stripe"
+      "model": "candy-stripe",
+      "thumbnail": "frames/candy-stripe.png",
+      "color_code": "#FB7185"
     },
     {
       "id": "w45",
@@ -2416,7 +2560,9 @@
       "thumbnail_url": "frames/w45.png",
       "colour_code": "#A5B6CB",
       "caption_colour_code": "#FFFFFF",
-      "model": "w45"
+      "model": "w45",
+      "thumbnail": "frames/w45.png",
+      "color_code": "#A5B6CB"
     },
     {
       "id": "w55",
@@ -2451,7 +2597,9 @@
       "thumbnail_url": "frames/w55.png",
       "colour_code": "#E5D6BA",
       "caption_colour_code": "#FFFFFF",
-      "model": "w55"
+      "model": "w55",
+      "thumbnail": "frames/w55.png",
+      "color_code": "#E5D6BA"
     },
     {
       "id": "w60",
@@ -2492,7 +2640,9 @@
       "thumbnail_url": "frames/w60.png",
       "colour_code": "#B9BFD0",
       "caption_colour_code": "#FFFFFF",
-      "model": "w60"
+      "model": "w60",
+      "thumbnail": "frames/w60.png",
+      "color_code": "#B9BFD0"
     },
     {
       "id": "w70",
@@ -2533,7 +2683,9 @@
       "thumbnail_url": "frames/w70.png",
       "colour_code": "#FECBD9",
       "caption_colour_code": "#FFFFFF",
-      "model": "w70"
+      "model": "w70",
+      "thumbnail": "frames/w70.png",
+      "color_code": "#FECBD9"
     },
     {
       "id": "w75",
@@ -2574,7 +2726,9 @@
       "thumbnail_url": "frames/w75.png",
       "colour_code": "#FF4ED2",
       "caption_colour_code": "#FFFFFF",
-      "model": "w75"
+      "model": "w75",
+      "thumbnail": "frames/w75.png",
+      "color_code": "#FF4ED2"
     },
     {
       "id": "w80",
@@ -2609,7 +2763,9 @@
       "thumbnail_url": "frames/w80.png",
       "colour_code": "#FFFFFF",
       "caption_colour_code": "#FFFFFF",
-      "model": "w80"
+      "model": "w80",
+      "thumbnail": "frames/w80.png",
+      "color_code": "#FFFFFF"
     },
     {
       "id": "w85",
@@ -2650,7 +2806,9 @@
       "thumbnail_url": "frames/w85.png",
       "colour_code": "#000000",
       "caption_colour_code": "#FFFFFF",
-      "model": "w85"
+      "model": "w85",
+      "thumbnail": "frames/w85.png",
+      "color_code": "#000000"
     },
     {
       "id": "w90",
@@ -2679,7 +2837,9 @@
       "thumbnail_url": "frames/w90.png",
       "colour_code": "#FFFFFF",
       "caption_colour_code": "#FFFFFF",
-      "model": "w90"
+      "model": "w90",
+      "thumbnail": "frames/w90.png",
+      "color_code": "#FFFFFF"
     },
     {
       "id": "w95",
@@ -2720,7 +2880,9 @@
       "thumbnail_url": "frames/w95.png",
       "colour_code": "#F7ABB9",
       "caption_colour_code": "#FFFFFF",
-      "model": "w95"
+      "model": "w95",
+      "thumbnail": "frames/w95.png",
+      "color_code": "#F7ABB9"
     },
     {
       "id": "w100",
@@ -2761,7 +2923,9 @@
       "thumbnail_url": "frames/w100.png",
       "colour_code": "#331356",
       "caption_colour_code": "#FFFFFF",
-      "model": "w100"
+      "model": "w100",
+      "thumbnail": "frames/w100.png",
+      "color_code": "#331356"
     },
     {
       "id": "g6",
@@ -2802,7 +2966,9 @@
       "thumbnail_url": "frames/g6.png",
       "colour_code": "#FFFFFF",
       "caption_colour_code": "#FFFFFF",
-      "model": "g6"
+      "model": "g6",
+      "thumbnail": "frames/g6.png",
+      "color_code": "#FFFFFF"
     },
     {
       "id": "g19",
@@ -2879,7 +3045,9 @@
       "thumbnail_url": "frames/g19.png",
       "colour_code": "#036DB3",
       "caption_colour_code": "#FFFFFF",
-      "model": "g19"
+      "model": "g19",
+      "thumbnail": "frames/g19.png",
+      "color_code": "#036DB3"
     },
     {
       "id": "g21",
@@ -2938,7 +3106,9 @@
       "thumbnail_url": "frames/g21.png",
       "colour_code": "#5591C3",
       "caption_colour_code": "#FFFFFF",
-      "model": "g21"
+      "model": "g21",
+      "thumbnail": "frames/g21.png",
+      "color_code": "#5591C3"
     },
     {
       "id": "g24",
@@ -3003,7 +3173,9 @@
       "thumbnail_url": "frames/g24.png",
       "colour_code": "#ABAEAE",
       "caption_colour_code": "#FFFFFF",
-      "model": "g24"
+      "model": "g24",
+      "thumbnail": "frames/g24.png",
+      "color_code": "#ABAEAE"
     },
     {
       "id": "g26",
@@ -3026,7 +3198,9 @@
       "thumbnail_url": "frames/g26.png",
       "colour_code": "#E8DFDC",
       "caption_colour_code": "#FFFFFF",
-      "model": "g26"
+      "model": "g26",
+      "thumbnail": "frames/g26.png",
+      "color_code": "#E8DFDC"
     },
     {
       "id": "g27",
@@ -3049,7 +3223,9 @@
       "thumbnail_url": "frames/g27.png",
       "colour_code": "#6E8137",
       "caption_colour_code": "#FFFFFF",
-      "model": "g27"
+      "model": "g27",
+      "thumbnail": "frames/g27.png",
+      "color_code": "#6E8137"
     },
     {
       "id": "cvc4",
@@ -3090,7 +3266,9 @@
       "thumbnail_url": "frames/cvc4.png",
       "colour_code": "#FFFFFF",
       "caption_colour_code": "#FFFFFF",
-      "model": "cvc4"
+      "model": "cvc4",
+      "thumbnail": "frames/cvc4.png",
+      "color_code": "#FFFFFF"
     },
     {
       "id": "cvc6",
@@ -3143,7 +3321,9 @@
       "thumbnail_url": "frames/cvc6.png",
       "colour_code": "#FFFFFF",
       "caption_colour_code": "#FFFFFF",
-      "model": "cvc6"
+      "model": "cvc6",
+      "thumbnail": "frames/cvc6.png",
+      "color_code": "#FFFFFF"
     },
     {
       "id": "cvwide",
@@ -3166,7 +3346,9 @@
       "thumbnail_url": "frames/cvwide.png",
       "colour_code": "#DBDBDB",
       "caption_colour_code": "#FFFFFF",
-      "model": "cvwide"
+      "model": "cvwide",
+      "thumbnail": "frames/cvwide.png",
+      "color_code": "#DBDBDB"
     },
     {
       "id": "cvpanel",
@@ -3196,7 +3378,9 @@
       "thumbnail_url": "frames/cvpanel.png",
       "colour_code": "#FFFFFF",
       "caption_colour_code": "#FFFFFF",
-      "model": "cvpanel"
+      "model": "cvpanel",
+      "thumbnail": "frames/cvpanel.png",
+      "color_code": "#FFFFFF"
     }
   ]
 }
