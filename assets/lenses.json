@@ -241,119 +241,119 @@
    "name": "Vintage Photo Booth",
    "type": "bg",
    "thumbAsset": "lens_bg_vintage_photo_booth",
-   "asset": "lensbooth/backgrounds/scene_vintage_photo_booth.webp"
+   "asset": "assets/backgrounds/scene_vintage_photo_booth.webp"
   },
   {
    "id": "bg_halloween",
    "name": "Halloween",
    "type": "bg",
    "thumbAsset": "lens_bg_haunted_hilltop_graveyard",
-   "asset": "lensbooth/backgrounds/scene_haunted_hilltop_graveyard.webp"
+   "asset": "assets/backgrounds/scene_haunted_hilltop_graveyard.webp"
   },
   {
    "id": "bg_teddy",
    "name": "Teddy",
    "type": "bg",
    "thumbAsset": "lens_bg_teddy",
-   "asset": "lensbooth/backgrounds/scene_teddy.webp"
+   "asset": "assets/backgrounds/scene_teddy.webp"
   },
   {
    "id": "bg_movie_theater",
    "name": "Movie Theater",
    "type": "bg",
    "thumbAsset": "lens_bg_movie_theater",
-   "asset": "lensbooth/backgrounds/scene_movie_theater.webp"
+   "asset": "assets/backgrounds/scene_movie_theater.webp"
   },
   {
    "id": "bg_arcade",
    "name": "Arcade",
    "type": "bg",
    "thumbAsset": "lens_bg_arcade",
-   "asset": "lensbooth/backgrounds/scene_arcade.webp"
+   "asset": "assets/backgrounds/scene_arcade.webp"
   },
   {
    "id": "bg_cozy_bedroom",
    "name": "Cozy Bedroom",
    "type": "bg",
    "thumbAsset": "lens_bg_cozy_bedroom",
-   "asset": "lensbooth/backgrounds/scene_cozy_bedroom.webp"
+   "asset": "assets/backgrounds/scene_cozy_bedroom.webp"
   },
   {
    "id": "bg_beach",
    "name": "Beach",
    "type": "bg",
    "thumbAsset": "lens_bg_beach",
-   "asset": "lensbooth/backgrounds/scene_beach.webp"
+   "asset": "assets/backgrounds/scene_beach.webp"
   },
   {
    "id": "bg_birthday_party",
    "name": "Birthday Party",
    "type": "bg",
    "thumbAsset": "lens_bg_birthday_party",
-   "asset": "lensbooth/backgrounds/scene_birthday_party.webp"
+   "asset": "assets/backgrounds/scene_birthday_party.webp"
   },
   {
    "id": "bg_cozy_cafe",
    "name": "Cozy Cafe",
    "type": "bg",
    "thumbAsset": "lens_bg_cozy_caf_",
-   "asset": "lensbooth/backgrounds/scene_cozy_caf_.webp"
+   "asset": "assets/backgrounds/scene_cozy_caf_.webp"
   },
   {
    "id": "bg_amusement_park",
    "name": "Amusement Park",
    "type": "bg",
    "thumbAsset": "lens_bg_amusement_park",
-   "asset": "lensbooth/backgrounds/scene_amusement_park.webp"
+   "asset": "assets/backgrounds/scene_amusement_park.webp"
   },
   {
    "id": "bg_rooftop_sunset",
    "name": "Rooftop Sunset",
    "type": "bg",
    "thumbAsset": "lens_bg_rooftop_sunset",
-   "asset": "lensbooth/backgrounds/scene_rooftop_sunset.webp"
+   "asset": "assets/backgrounds/scene_rooftop_sunset.webp"
   },
   {
    "id": "bg_modern_studio",
    "name": "Modern Studio",
    "type": "bg",
    "thumbAsset": "lens_bg_modern_studio",
-   "asset": "lensbooth/backgrounds/scene_modern_studio.webp"
+   "asset": "assets/backgrounds/scene_modern_studio.webp"
   },
   {
    "id": "bg_rosie",
    "name": "Rosie",
    "type": "bg",
    "thumbAsset": "lens_bg_rosie",
-   "asset": "lensbooth/backgrounds/scene_rosie.webp"
+   "asset": "assets/backgrounds/scene_rosie.webp"
   },
   {
    "id": "bg_airport_lounge",
    "name": "Airport Lounge",
    "type": "bg",
    "thumbAsset": "lens_bg_airport_lounge",
-   "asset": "lensbooth/backgrounds/scene_airport_lounge.webp"
+   "asset": "assets/backgrounds/scene_airport_lounge.webp"
   },
   {
    "id": "bg_park_picnic",
    "name": "Park Picnic",
    "type": "bg",
    "thumbAsset": "lens_bg_park_picnic",
-   "asset": "lensbooth/backgrounds/scene_park_picnic.webp"
+   "asset": "assets/backgrounds/scene_park_picnic.webp"
   },
   {
    "id": "bg_school_hallway",
    "name": "School Hallway",
    "type": "bg",
    "thumbAsset": "lens_bg_school_hallway",
-   "asset": "lensbooth/backgrounds/scene_school_hallway.webp"
+   "asset": "assets/backgrounds/scene_school_hallway.webp"
   },
   {
    "id": "bg_subway",
    "name": "Subway",
    "type": "bg",
    "thumbAsset": "lens_bg_subway",
-   "asset": "lensbooth/backgrounds/scene_subway.webp"
+   "asset": "assets/backgrounds/scene_subway.webp"
   }
  ]
 }
