@@ -1,0 +1,599 @@
+{
+  "version": 1,
+  "categories": [
+    "lenses",
+    "frames"
+  ],
+  "lenses": [
+    {
+      "id": "bg_beach",
+      "name": "Beach",
+      "type": "bg",
+      "thumbAsset": "lens_bg_beach",
+      "asset": "assets/backgrounds/scene_beach.webp",
+      "thumbnail_url": "lenses/thumbs/lens_bg_beach.png",
+      "image_url": "assets/backgrounds/scene_beach.webp",
+      "model": "bg_beach",
+      "colour_code": null,
+      "thumbnail": "lenses/thumbs/lens_bg_beach.png",
+      "color_code": null
+    },
+    {
+      "id": "party",
+      "name": "Party",
+      "type": "ar",
+      "thumbAsset": "lens_party",
+      "thumbnail_url": "lenses/thumbs/lens_party.png",
+      "image_url": "lenses/thumbs/lens_party.png",
+      "model": "party",
+      "colour_code": null,
+      "thumbnail": "lenses/thumbs/lens_party.png",
+      "color_code": null
+    },
+    {
+      "id": "bg_arcade",
+      "name": "Arcade",
+      "type": "bg",
+      "thumbAsset": "lens_bg_arcade",
+      "asset": "assets/backgrounds/scene_arcade.webp",
+      "thumbnail_url": "lenses/thumbs/lens_bg_arcade.png",
+      "image_url": "assets/backgrounds/scene_arcade.webp",
+      "model": "bg_arcade",
+      "colour_code": null,
+      "thumbnail": "lenses/thumbs/lens_bg_arcade.png",
+      "color_code": null
+    },
+    {
+      "id": "urban",
+      "name": "Urban",
+      "type": "ar",
+      "thumbAsset": "lens_urban",
+      "thumbnail_url": "lenses/thumbs/lens_urban.png",
+      "image_url": "lenses/thumbs/lens_urban.png",
+      "model": "urban",
+      "colour_code": null,
+      "thumbnail": "lenses/thumbs/lens_urban.png",
+      "color_code": null
+    },
+    {
+      "id": "bg_cozy_cafe",
+      "name": "Cozy Cafe",
+      "type": "bg",
+      "thumbAsset": "lens_bg_cozy_caf_",
+      "asset": "assets/backgrounds/scene_cozy_caf_.webp",
+      "thumbnail_url": "lenses/thumbs/lens_bg_cozy_caf_.png",
+      "image_url": "assets/backgrounds/scene_cozy_caf_.webp",
+      "model": "bg_cozy_cafe",
+      "colour_code": null,
+      "thumbnail": "lenses/thumbs/lens_bg_cozy_caf_.png",
+      "color_code": null
+    },
+    {
+      "id": "princess",
+      "name": "Princess",
+      "type": "ar",
+      "thumbAsset": "lens_princess",
+      "thumbnail_url": "lenses/thumbs/lens_princess.png",
+      "image_url": "lenses/thumbs/lens_princess.png",
+      "model": "princess",
+      "colour_code": null,
+      "thumbnail": "lenses/thumbs/lens_princess.png",
+      "color_code": null
+    },
+    {
+      "id": "bg_rooftop_sunset",
+      "name": "Rooftop Sunset",
+      "type": "bg",
+      "thumbAsset": "lens_bg_rooftop_sunset",
+      "asset": "assets/backgrounds/scene_rooftop_sunset.webp",
+      "thumbnail_url": "lenses/thumbs/lens_bg_rooftop_sunset.png",
+      "image_url": "assets/backgrounds/scene_rooftop_sunset.webp",
+      "model": "bg_rooftop_sunset",
+      "colour_code": null,
+      "thumbnail": "lenses/thumbs/lens_bg_rooftop_sunset.png",
+      "color_code": null
+    },
+    {
+      "id": "bigbow",
+      "name": "Big Bow",
+      "type": "ar",
+      "thumbAsset": "lens_bigbow",
+      "thumbnail_url": "lenses/thumbs/lens_bigbow.png",
+      "image_url": "lenses/thumbs/lens_bigbow.png",
+      "model": "bigbow",
+      "colour_code": null,
+      "thumbnail": "lenses/thumbs/lens_bigbow.png",
+      "color_code": null
+    },
+    {
+      "id": "bg_birthday_party",
+      "name": "Birthday Party",
+      "type": "bg",
+      "thumbAsset": "lens_bg_birthday_party",
+      "asset": "assets/backgrounds/scene_birthday_party.webp",
+      "thumbnail_url": "lenses/thumbs/lens_bg_birthday_party.png",
+      "image_url": "assets/backgrounds/scene_birthday_party.webp",
+      "model": "bg_birthday_party",
+      "colour_code": null,
+      "thumbnail": "lenses/thumbs/lens_bg_birthday_party.png",
+      "color_code": null
+    },
+    {
+      "id": "butterfly",
+      "name": "Butterfly",
+      "type": "ar",
+      "thumbAsset": "lens_butterfly",
+      "thumbnail_url": "lenses/thumbs/lens_butterfly.png",
+      "image_url": "lenses/thumbs/lens_butterfly.png",
+      "model": "butterfly",
+      "colour_code": null,
+      "thumbnail": "lenses/thumbs/lens_butterfly.png",
+      "color_code": null
+    },
+    {
+      "id": "bg_amusement_park",
+      "name": "Amusement Park",
+      "type": "bg",
+      "thumbAsset": "lens_bg_amusement_park",
+      "asset": "assets/backgrounds/scene_amusement_park.webp",
+      "thumbnail_url": "lenses/thumbs/lens_bg_amusement_park.png",
+      "image_url": "assets/backgrounds/scene_amusement_park.webp",
+      "model": "bg_amusement_park",
+      "colour_code": null,
+      "thumbnail": "lenses/thumbs/lens_bg_amusement_park.png",
+      "color_code": null
+    },
+    {
+      "id": "swag",
+      "name": "Swag",
+      "type": "ar",
+      "thumbAsset": "lens_swag",
+      "thumbnail_url": "lenses/thumbs/lens_swag.png",
+      "image_url": "lenses/thumbs/lens_swag.png",
+      "model": "swag",
+      "colour_code": null,
+      "thumbnail": "lenses/thumbs/lens_swag.png",
+      "color_code": null
+    }
+  ],
+  "frames": [
+    {
+      "id": "prism_pink",
+      "title": "Prism Pink",
+      "file": "frames/prism_pink.png",
+      "category": "prism",
+      "aspect": 0.3333333333333333,
+      "whiteWindows": false,
+      "accentColor": "#E75BB0",
+      "captionColor": "#FFFFFF",
+      "slots": [
+        {
+          "x1": 0.0836,
+          "y1": 0.0279,
+          "x2": 0.916,
+          "y2": 0.2359
+        },
+        {
+          "x1": 0.0836,
+          "y1": 0.264,
+          "x2": 0.916,
+          "y2": 0.472
+        },
+        {
+          "x1": 0.0836,
+          "y1": 0.5001,
+          "x2": 0.916,
+          "y2": 0.7081
+        },
+        {
+          "x1": 0.0836,
+          "y1": 0.7361,
+          "x2": 0.916,
+          "y2": 0.9443
+        }
+      ],
+      "image_url": "frames/prism_pink.png",
+      "thumbnail_url": "frames/prism_pink.png",
+      "colour_code": "#E75BB0",
+      "caption_colour_code": "#FFFFFF",
+      "model": "prism_pink",
+      "thumbnail": "frames/prism_pink.png",
+      "color_code": "#E75BB0"
+    },
+    {
+      "id": "friendship",
+      "title": "Friendship Patch",
+      "file": "frames/friendship.png",
+      "category": "cute",
+      "aspect": 0.8,
+      "whiteWindows": true,
+      "accentColor": "#F0A8BF",
+      "captionColor": "#B96A66",
+      "slots": [
+        {
+          "x1": 0.1815,
+          "y1": 0.3215,
+          "x2": 0.8278,
+          "y2": 0.6748
+        }
+      ],
+      "image_url": "frames/friendship.png",
+      "thumbnail_url": "frames/friendship.png",
+      "colour_code": "#F0A8BF",
+      "caption_colour_code": "#B96A66",
+      "model": "friendship",
+      "thumbnail": "frames/friendship.png",
+      "color_code": "#F0A8BF"
+    },
+    {
+      "id": "floral1",
+      "title": "Floral Sketch",
+      "file": "frames/floral1.png",
+      "category": "cute",
+      "aspect": 0.8571428571428571,
+      "whiteWindows": false,
+      "accentColor": "#C4385A",
+      "captionColor": "#7A2238",
+      "slots": [
+        {
+          "x1": 0.0917,
+          "y1": 0.1071,
+          "x2": 0.9067,
+          "y2": 0.6443
+        }
+      ],
+      "image_url": "frames/floral1.png",
+      "thumbnail_url": "frames/floral1.png",
+      "colour_code": "#C4385A",
+      "caption_colour_code": "#7A2238",
+      "model": "floral1",
+      "thumbnail": "frames/floral1.png",
+      "color_code": "#C4385A"
+    },
+    {
+      "id": "starry1",
+      "title": "Starry Night",
+      "file": "frames/starry1.png",
+      "category": "stars",
+      "aspect": 0.3,
+      "whiteWindows": false,
+      "accentColor": "#22335C",
+      "captionColor": "#FFE08A",
+      "slots": [
+        {
+          "x1": 0.1,
+          "y1": 0.04,
+          "x2": 0.8983,
+          "y2": 0.2295
+        },
+        {
+          "x1": 0.1,
+          "y1": 0.27,
+          "x2": 0.8983,
+          "y2": 0.4645
+        },
+        {
+          "x1": 0.1,
+          "y1": 0.5,
+          "x2": 0.8983,
+          "y2": 0.6945
+        },
+        {
+          "x1": 0.1,
+          "y1": 0.7295,
+          "x2": 0.8983,
+          "y2": 0.924
+        }
+      ],
+      "image_url": "frames/starry1.png",
+      "thumbnail_url": "frames/starry1.png",
+      "colour_code": "#22335C",
+      "caption_colour_code": "#FFE08A",
+      "model": "starry1",
+      "thumbnail": "frames/starry1.png",
+      "color_code": "#22335C"
+    },
+    {
+      "id": "rainbow-boardwalk",
+      "title": "Rainbow Boardwalk",
+      "file": "frames/rainbow-boardwalk.png",
+      "category": "prism",
+      "aspect": 0.8,
+      "whiteWindows": false,
+      "accentColor": "#4FB8DC",
+      "captionColor": "#FFFFFF",
+      "slots": [
+        {
+          "x1": 0.1519,
+          "y1": 0.1985,
+          "x2": 0.8481,
+          "y2": 0.8778
+        }
+      ],
+      "image_url": "frames/rainbow-boardwalk.png",
+      "thumbnail_url": "frames/rainbow-boardwalk.png",
+      "colour_code": "#4FB8DC",
+      "caption_colour_code": "#FFFFFF",
+      "model": "rainbow-boardwalk",
+      "thumbnail": "frames/rainbow-boardwalk.png",
+      "color_code": "#4FB8DC"
+    },
+    {
+      "id": "cherry-bloom",
+      "title": "Cherry Bloom",
+      "file": "frames/cherry-bloom.png",
+      "category": "doodle",
+      "aspect": 0.332207,
+      "whiteWindows": false,
+      "accentColor": "#D14D72",
+      "captionColor": "#FFFFFF",
+      "slots": [
+        {
+          "x1": 0.0627,
+          "y1": 0.0242,
+          "x2": 0.9373,
+          "y2": 0.2368
+        },
+        {
+          "x1": 0.0627,
+          "y1": 0.2553,
+          "x2": 0.9373,
+          "y2": 0.4682
+        },
+        {
+          "x1": 0.0644,
+          "y1": 0.4868,
+          "x2": 0.9381,
+          "y2": 0.6993
+        },
+        {
+          "x1": 0.0627,
+          "y1": 0.7176,
+          "x2": 0.9373,
+          "y2": 0.9302
+        }
+      ],
+      "image_url": "frames/cherry-bloom.png",
+      "thumbnail_url": "frames/cherry-bloom.png",
+      "colour_code": "#D14D72",
+      "caption_colour_code": "#FFFFFF",
+      "model": "cherry-bloom",
+      "thumbnail": "frames/cherry-bloom.png",
+      "color_code": "#D14D72"
+    },
+    {
+      "id": "lilac-dream",
+      "title": "Lilac Dream",
+      "file": "frames/lilac-dream.png",
+      "category": "prism",
+      "aspect": 0.332207,
+      "whiteWindows": false,
+      "accentColor": "#C084FC",
+      "captionColor": "#FFFFFF",
+      "slots": [
+        {
+          "x1": 0.0983,
+          "y1": 0.038,
+          "x2": 0.9008,
+          "y2": 0.2438
+        },
+        {
+          "x1": 0.0797,
+          "y1": 0.2675,
+          "x2": 0.7966,
+          "y2": 0.4626
+        },
+        {
+          "x1": 0.1076,
+          "y1": 0.4992,
+          "x2": 0.9051,
+          "y2": 0.6951
+        },
+        {
+          "x1": 0.0975,
+          "y1": 0.7269,
+          "x2": 0.9025,
+          "y2": 0.9001
+        }
+      ],
+      "image_url": "frames/lilac-dream.png",
+      "thumbnail_url": "frames/lilac-dream.png",
+      "colour_code": "#C084FC",
+      "caption_colour_code": "#FFFFFF",
+      "model": "lilac-dream",
+      "thumbnail": "frames/lilac-dream.png",
+      "color_code": "#C084FC"
+    },
+    {
+      "id": "sparkle-hearts",
+      "title": "Sparkle Hearts",
+      "file": "frames/sparkle-hearts.png",
+      "category": "cute",
+      "aspect": 0.332207,
+      "whiteWindows": false,
+      "accentColor": "#F472B6",
+      "captionColor": "#FFFFFF",
+      "slots": [
+        {
+          "x1": 0.072,
+          "y1": 0.0284,
+          "x2": 0.9288,
+          "y2": 0.2351
+        },
+        {
+          "x1": 0.0737,
+          "y1": 0.259,
+          "x2": 0.9305,
+          "y2": 0.4654
+        },
+        {
+          "x1": 0.078,
+          "y1": 0.4896,
+          "x2": 0.9347,
+          "y2": 0.6959
+        },
+        {
+          "x1": 0.0737,
+          "y1": 0.7202,
+          "x2": 0.9305,
+          "y2": 0.9262
+        }
+      ],
+      "image_url": "frames/sparkle-hearts.png",
+      "thumbnail_url": "frames/sparkle-hearts.png",
+      "colour_code": "#F472B6",
+      "caption_colour_code": "#FFFFFF",
+      "model": "sparkle-hearts",
+      "thumbnail": "frames/sparkle-hearts.png",
+      "color_code": "#F472B6"
+    },
+    {
+      "id": "galaxy-frame",
+      "title": "Galaxy Frame",
+      "file": "frames/galaxy-frame.png",
+      "category": "stars",
+      "aspect": 0.332207,
+      "whiteWindows": false,
+      "accentColor": "#6366F1",
+      "captionColor": "#FFFFFF",
+      "slots": [
+        {
+          "x1": 0.0627,
+          "y1": 0.0231,
+          "x2": 0.9381,
+          "y2": 0.2368
+        },
+        {
+          "x1": 0.0636,
+          "y1": 0.2548,
+          "x2": 0.939,
+          "y2": 0.4685
+        },
+        {
+          "x1": 0.0636,
+          "y1": 0.4856,
+          "x2": 0.939,
+          "y2": 0.6993
+        },
+        {
+          "x1": 0.0627,
+          "y1": 0.7204,
+          "x2": 0.9381,
+          "y2": 0.9338
+        }
+      ],
+      "image_url": "frames/galaxy-frame.png",
+      "thumbnail_url": "frames/galaxy-frame.png",
+      "colour_code": "#6366F1",
+      "caption_colour_code": "#FFFFFF",
+      "model": "galaxy-frame",
+      "thumbnail": "frames/galaxy-frame.png",
+      "color_code": "#6366F1"
+    },
+    {
+      "id": "candy-stripe",
+      "title": "Candy Stripe",
+      "file": "frames/candy-stripe.png",
+      "category": "party",
+      "aspect": 0.332207,
+      "whiteWindows": false,
+      "accentColor": "#FB7185",
+      "captionColor": "#FFFFFF",
+      "slots": [
+        {
+          "x1": 0.072,
+          "y1": 0.027,
+          "x2": 0.928,
+          "y2": 0.234
+        },
+        {
+          "x1": 0.0729,
+          "y1": 0.2584,
+          "x2": 0.9297,
+          "y2": 0.4651
+        },
+        {
+          "x1": 0.0729,
+          "y1": 0.489,
+          "x2": 0.9297,
+          "y2": 0.6959
+        },
+        {
+          "x1": 0.072,
+          "y1": 0.7233,
+          "x2": 0.928,
+          "y2": 0.9302
+        }
+      ],
+      "image_url": "frames/candy-stripe.png",
+      "thumbnail_url": "frames/candy-stripe.png",
+      "colour_code": "#FB7185",
+      "caption_colour_code": "#FFFFFF",
+      "model": "candy-stripe",
+      "thumbnail": "frames/candy-stripe.png",
+      "color_code": "#FB7185"
+    },
+    {
+      "id": "mariage-roseraie",
+      "title": "Rose Garden",
+      "file": "frames/mariage-roseraie.png",
+      "category": "wedding",
+      "aspect": 1.5011547344110854,
+      "whiteWindows": false,
+      "accentColor": "#FFFFFF",
+      "captionColor": "#FFFFFF",
+      "slots": [
+        {
+          "x1": 0.0734,
+          "y1": 0.0999,
+          "x2": 0.4797,
+          "y2": 0.7299
+        },
+        {
+          "x1": 0.5203,
+          "y1": 0.0999,
+          "x2": 0.9266,
+          "y2": 0.7299
+        }
+      ],
+      "image_url": "frames/mariage-roseraie.png",
+      "thumbnail_url": "frames/mariage-roseraie.png",
+      "colour_code": "#FFFFFF",
+      "caption_colour_code": "#FFFFFF",
+      "model": "mariage-roseraie",
+      "thumbnail": "frames/mariage-roseraie.png",
+      "color_code": "#FFFFFF"
+    },
+    {
+      "id": "soiree-neon",
+      "title": "Neon Party",
+      "file": "frames/soiree-neon.png",
+      "category": "party",
+      "aspect": 1.5011547344110854,
+      "whiteWindows": false,
+      "accentColor": "#FFFFFF",
+      "captionColor": "#FFFFFF",
+      "slots": [
+        {
+          "x1": 0.0666,
+          "y1": 0.0999,
+          "x2": 0.4797,
+          "y2": 0.7197
+        },
+        {
+          "x1": 0.5203,
+          "y1": 0.0999,
+          "x2": 0.9334,
+          "y2": 0.7197
+        }
+      ],
+      "image_url": "frames/soiree-neon.png",
+      "thumbnail_url": "frames/soiree-neon.png",
+      "colour_code": "#FFFFFF",
+      "caption_colour_code": "#FFFFFF",
+      "model": "soiree-neon",
+      "thumbnail": "frames/soiree-neon.png",
+      "color_code": "#FFFFFF"
+    }
+  ]
+}
