@@ -1,0 +1,571 @@
+{
+  "filters": [
+    {
+      "id": "noir",
+      "name": "Noir",
+      "type": "color",
+      "matrix": "noir",
+      "thumbAsset": "lensca_noir",
+      "thumbnail_url": "lenses/thumbs/lensca_noir.png",
+      "image_url": "lenses/thumbs/lensca_noir.png",
+      "model": "noir",
+      "colour_code": "noir"
+    },
+    {
+      "id": "cyber",
+      "name": "Cyber Y2K",
+      "type": "color",
+      "matrix": "cyber",
+      "thumbAsset": "lensca_cyber",
+      "thumbnail_url": "lenses/thumbs/lensca_cyber.png",
+      "image_url": "lenses/thumbs/lensca_cyber.png",
+      "model": "cyber",
+      "colour_code": "cyber"
+    },
+    {
+      "id": "tvgirl",
+      "name": "TV Girl",
+      "type": "color",
+      "matrix": "tvgirl",
+      "thumbAsset": "lensca_tvgirl",
+      "thumbnail_url": "lenses/thumbs/lensca_tvgirl.png",
+      "image_url": "lenses/thumbs/lensca_tvgirl.png",
+      "model": "tvgirl",
+      "colour_code": "tvgirl"
+    },
+    {
+      "id": "lilac",
+      "name": "Lilac Pop",
+      "type": "color",
+      "matrix": "lilac",
+      "thumbAsset": "lensca_lilac",
+      "thumbnail_url": "lenses/thumbs/lensca_lilac.png",
+      "image_url": "lenses/thumbs/lensca_lilac.png",
+      "model": "lilac",
+      "colour_code": "lilac"
+    },
+    {
+      "id": "darkroom",
+      "name": "Darkroom",
+      "type": "color",
+      "matrix": "darkroom",
+      "thumbAsset": "lensca_darkroom",
+      "thumbnail_url": "lenses/thumbs/lensca_darkroom.png",
+      "image_url": "lenses/thumbs/lensca_darkroom.png",
+      "model": "darkroom",
+      "colour_code": "darkroom"
+    },
+    {
+      "id": "honey",
+      "name": "Honey",
+      "type": "color",
+      "matrix": "honey",
+      "thumbAsset": "lensca_honey",
+      "thumbnail_url": "lenses/thumbs/lensca_honey.png",
+      "image_url": "lenses/thumbs/lensca_honey.png",
+      "model": "honey",
+      "colour_code": "honey"
+    },
+    {
+      "id": "rose",
+      "name": "Rose",
+      "type": "color",
+      "matrix": "rose",
+      "thumbAsset": "lensca_rose",
+      "thumbnail_url": "lenses/thumbs/lensca_rose.png",
+      "image_url": "lenses/thumbs/lensca_rose.png",
+      "model": "rose",
+      "colour_code": "rose"
+    },
+    {
+      "id": "blush",
+      "name": "Blush",
+      "type": "color",
+      "matrix": "blush",
+      "thumbAsset": "lensca_blush",
+      "thumbnail_url": "lenses/thumbs/lensca_blush.png",
+      "image_url": "lenses/thumbs/lensca_blush.png",
+      "model": "blush",
+      "colour_code": "blush"
+    },
+    {
+      "id": "peach",
+      "name": "Peach",
+      "type": "color",
+      "matrix": "peach",
+      "thumbAsset": "lensca_peach",
+      "thumbnail_url": "lenses/thumbs/lensca_peach.png",
+      "image_url": "lenses/thumbs/lensca_peach.png",
+      "model": "peach",
+      "colour_code": "peach"
+    },
+    {
+      "id": "amber",
+      "name": "Polaroid",
+      "type": "color",
+      "matrix": "polaroid",
+      "thumbAsset": "lensca_amber",
+      "thumbnail_url": "lenses/thumbs/lensca_amber.png",
+      "image_url": "lenses/thumbs/lensca_amber.png",
+      "model": "polaroid",
+      "colour_code": "polaroid"
+    },
+    {
+      "id": "cinema",
+      "name": "Cinema",
+      "type": "color",
+      "matrix": "cinema",
+      "thumbAsset": "lensca_cinema",
+      "thumbnail_url": "lenses/thumbs/lensca_cinema.png",
+      "image_url": "lenses/thumbs/lensca_cinema.png",
+      "model": "cinema",
+      "colour_code": "cinema"
+    },
+    {
+      "id": "frost",
+      "name": "Frost",
+      "type": "color",
+      "matrix": "frost",
+      "thumbAsset": "lensca_frost",
+      "thumbnail_url": "lenses/thumbs/lensca_frost.png",
+      "image_url": "lenses/thumbs/lensca_frost.png",
+      "model": "frost",
+      "colour_code": "frost"
+    },
+    {
+      "id": "midnight",
+      "name": "Midnight",
+      "type": "color",
+      "matrix": "midnight",
+      "thumbAsset": "lensca_midnight",
+      "thumbnail_url": "lenses/thumbs/lensca_midnight.png",
+      "image_url": "lenses/thumbs/lensca_midnight.png",
+      "model": "midnight",
+      "colour_code": "midnight"
+    },
+    {
+      "id": "film",
+      "name": "Film",
+      "type": "color",
+      "matrix": "film",
+      "thumbAsset": "lensca_film",
+      "thumbnail_url": "lenses/thumbs/lensca_film.png",
+      "image_url": "lenses/thumbs/lensca_film.png",
+      "model": "film",
+      "colour_code": "film"
+    },
+    {
+      "id": "vintage",
+      "name": "Vintage",
+      "type": "color",
+      "matrix": "vintage",
+      "thumbAsset": "lensca_vintage",
+      "thumbnail_url": "lenses/thumbs/lensca_vintage.png",
+      "image_url": "lenses/thumbs/lensca_vintage.png",
+      "model": "vintage",
+      "colour_code": "vintage"
+    },
+    {
+      "id": "dreamy",
+      "name": "Dreamy",
+      "type": "color",
+      "matrix": "dreamy",
+      "thumbAsset": "lensca_dreamy",
+      "thumbnail_url": "lenses/thumbs/lensca_dreamy.png",
+      "image_url": "lenses/thumbs/lensca_dreamy.png",
+      "model": "dreamy",
+      "colour_code": "dreamy"
+    }
+  ],
+  "ar": [
+    {
+      "id": "spooky",
+      "name": "Spooky",
+      "type": "ar",
+      "thumbAsset": "lens_spooky",
+      "thumbnail_url": "lenses/thumbs/lens_spooky.png",
+      "image_url": "lenses/thumbs/lens_spooky.png",
+      "model": "spooky",
+      "colour_code": null
+    },
+    {
+      "id": "spotty",
+      "name": "Spotty",
+      "type": "ar",
+      "thumbAsset": "lens_spotty",
+      "thumbnail_url": "lenses/thumbs/lens_spotty.png",
+      "image_url": "lenses/thumbs/lens_spotty.png",
+      "model": "spotty",
+      "colour_code": null
+    },
+    {
+      "id": "puppy",
+      "name": "Puppy",
+      "type": "ar",
+      "thumbAsset": "lens_puppy",
+      "thumbnail_url": "lenses/thumbs/lens_puppy.png",
+      "image_url": "lenses/thumbs/lens_puppy.png",
+      "model": "puppy",
+      "colour_code": null
+    },
+    {
+      "id": "kitty",
+      "name": "Kitty",
+      "type": "ar",
+      "thumbAsset": "lens_kitty",
+      "thumbnail_url": "lenses/thumbs/lens_kitty.png",
+      "image_url": "lenses/thumbs/lens_kitty.png",
+      "model": "kitty",
+      "colour_code": null
+    },
+    {
+      "id": "bunny",
+      "name": "Bunny",
+      "type": "ar",
+      "thumbAsset": "lens_bunny",
+      "thumbnail_url": "lenses/thumbs/lens_bunny.png",
+      "image_url": "lenses/thumbs/lens_bunny.png",
+      "model": "bunny",
+      "colour_code": null
+    },
+    {
+      "id": "devil",
+      "name": "Devil",
+      "type": "ar",
+      "thumbAsset": "lens_devil",
+      "thumbnail_url": "lenses/thumbs/lens_devil.png",
+      "image_url": "lenses/thumbs/lens_devil.png",
+      "model": "devil",
+      "colour_code": null
+    },
+    {
+      "id": "angel",
+      "name": "Angel",
+      "type": "ar",
+      "thumbAsset": "lens_angel",
+      "thumbnail_url": "lenses/thumbs/lens_angel.png",
+      "image_url": "lenses/thumbs/lens_angel.png",
+      "model": "angel",
+      "colour_code": null
+    },
+    {
+      "id": "cool",
+      "name": "Cool",
+      "type": "ar",
+      "thumbAsset": "lens_cool",
+      "thumbnail_url": "lenses/thumbs/lens_cool.png",
+      "image_url": "lenses/thumbs/lens_cool.png",
+      "model": "cool",
+      "colour_code": null
+    },
+    {
+      "id": "princess",
+      "name": "Princess",
+      "type": "ar",
+      "thumbAsset": "lens_princess",
+      "thumbnail_url": "lenses/thumbs/lens_princess.png",
+      "image_url": "lenses/thumbs/lens_princess.png",
+      "model": "princess",
+      "colour_code": null
+    },
+    {
+      "id": "butterfly",
+      "name": "Butterfly",
+      "type": "ar",
+      "thumbAsset": "lens_butterfly",
+      "thumbnail_url": "lenses/thumbs/lens_butterfly.png",
+      "image_url": "lenses/thumbs/lens_butterfly.png",
+      "model": "butterfly",
+      "colour_code": null
+    },
+    {
+      "id": "bigbow",
+      "name": "Big Bow",
+      "type": "ar",
+      "thumbAsset": "lens_bigbow",
+      "thumbnail_url": "lenses/thumbs/lens_bigbow.png",
+      "image_url": "lenses/thumbs/lens_bigbow.png",
+      "model": "bigbow",
+      "colour_code": null
+    },
+    {
+      "id": "cutie",
+      "name": "Cutie",
+      "type": "ar",
+      "thumbAsset": "lens_cutie",
+      "thumbnail_url": "lenses/thumbs/lens_cutie.png",
+      "image_url": "lenses/thumbs/lens_cutie.png",
+      "model": "cutie",
+      "colour_code": null
+    },
+    {
+      "id": "love",
+      "name": "Love",
+      "type": "ar",
+      "thumbAsset": "lens_love",
+      "thumbnail_url": "lenses/thumbs/lens_love.png",
+      "image_url": "lenses/thumbs/lens_love.png",
+      "model": "love",
+      "colour_code": null
+    },
+    {
+      "id": "inlove",
+      "name": "In Love",
+      "type": "ar",
+      "thumbAsset": "lens_inlove",
+      "thumbnail_url": "lenses/thumbs/lens_inlove.png",
+      "image_url": "lenses/thumbs/lens_inlove.png",
+      "model": "inlove",
+      "colour_code": null
+    },
+    {
+      "id": "sweetears",
+      "name": "Sweet Ears",
+      "type": "ar",
+      "thumbAsset": "lens_sweetears",
+      "thumbnail_url": "lenses/thumbs/lens_sweetears.png",
+      "image_url": "lenses/thumbs/lens_sweetears.png",
+      "model": "sweetears",
+      "colour_code": null
+    },
+    {
+      "id": "cozy",
+      "name": "Cozy",
+      "type": "ar",
+      "thumbAsset": "lens_cozy",
+      "thumbnail_url": "lenses/thumbs/lens_cozy.png",
+      "image_url": "lenses/thumbs/lens_cozy.png",
+      "model": "cozy",
+      "colour_code": null
+    },
+    {
+      "id": "santa",
+      "name": "Santa",
+      "type": "ar",
+      "thumbAsset": "lens_santa",
+      "thumbnail_url": "lenses/thumbs/lens_santa.png",
+      "image_url": "lenses/thumbs/lens_santa.png",
+      "model": "santa",
+      "colour_code": null
+    },
+    {
+      "id": "swag",
+      "name": "Swag",
+      "type": "ar",
+      "thumbAsset": "lens_swag",
+      "thumbnail_url": "lenses/thumbs/lens_swag.png",
+      "image_url": "lenses/thumbs/lens_swag.png",
+      "model": "swag",
+      "colour_code": null
+    },
+    {
+      "id": "party",
+      "name": "Party",
+      "type": "ar",
+      "thumbAsset": "lens_party",
+      "thumbnail_url": "lenses/thumbs/lens_party.png",
+      "image_url": "lenses/thumbs/lens_party.png",
+      "model": "party",
+      "colour_code": null
+    },
+    {
+      "id": "urban",
+      "name": "Urban",
+      "type": "ar",
+      "thumbAsset": "lens_urban",
+      "thumbnail_url": "lenses/thumbs/lens_urban.png",
+      "image_url": "lenses/thumbs/lens_urban.png",
+      "model": "urban",
+      "colour_code": null
+    }
+  ],
+  "backgrounds": [
+    {
+      "id": "bg_vintage_photo_booth",
+      "name": "Vintage Photo Booth",
+      "type": "bg",
+      "thumbAsset": "lens_bg_vintage_photo_booth",
+      "asset": "lensbooth/backgrounds/scene_vintage_photo_booth.webp",
+      "thumbnail_url": "lenses/thumbs/lens_bg_vintage_photo_booth.png",
+      "image_url": "lensbooth/backgrounds/scene_vintage_photo_booth.webp",
+      "model": "bg_vintage_photo_booth",
+      "colour_code": null
+    },
+    {
+      "id": "bg_halloween",
+      "name": "Halloween",
+      "type": "bg",
+      "thumbAsset": "lens_bg_haunted_hilltop_graveyard",
+      "asset": "lensbooth/backgrounds/scene_haunted_hilltop_graveyard.webp",
+      "thumbnail_url": "lenses/thumbs/lens_bg_haunted_hilltop_graveyard.png",
+      "image_url": "lensbooth/backgrounds/scene_haunted_hilltop_graveyard.webp",
+      "model": "bg_halloween",
+      "colour_code": null
+    },
+    {
+      "id": "bg_teddy",
+      "name": "Teddy",
+      "type": "bg",
+      "thumbAsset": "lens_bg_teddy",
+      "asset": "lensbooth/backgrounds/scene_teddy.webp",
+      "thumbnail_url": "lenses/thumbs/lens_bg_teddy.png",
+      "image_url": "lensbooth/backgrounds/scene_teddy.webp",
+      "model": "bg_teddy",
+      "colour_code": null
+    },
+    {
+      "id": "bg_movie_theater",
+      "name": "Movie Theater",
+      "type": "bg",
+      "thumbAsset": "lens_bg_movie_theater",
+      "asset": "lensbooth/backgrounds/scene_movie_theater.webp",
+      "thumbnail_url": "lenses/thumbs/lens_bg_movie_theater.png",
+      "image_url": "lensbooth/backgrounds/scene_movie_theater.webp",
+      "model": "bg_movie_theater",
+      "colour_code": null
+    },
+    {
+      "id": "bg_arcade",
+      "name": "Arcade",
+      "type": "bg",
+      "thumbAsset": "lens_bg_arcade",
+      "asset": "lensbooth/backgrounds/scene_arcade.webp",
+      "thumbnail_url": "lenses/thumbs/lens_bg_arcade.png",
+      "image_url": "lensbooth/backgrounds/scene_arcade.webp",
+      "model": "bg_arcade",
+      "colour_code": null
+    },
+    {
+      "id": "bg_cozy_bedroom",
+      "name": "Cozy Bedroom",
+      "type": "bg",
+      "thumbAsset": "lens_bg_cozy_bedroom",
+      "asset": "lensbooth/backgrounds/scene_cozy_bedroom.webp",
+      "thumbnail_url": "lenses/thumbs/lens_bg_cozy_bedroom.png",
+      "image_url": "lensbooth/backgrounds/scene_cozy_bedroom.webp",
+      "model": "bg_cozy_bedroom",
+      "colour_code": null
+    },
+    {
+      "id": "bg_beach",
+      "name": "Beach",
+      "type": "bg",
+      "thumbAsset": "lens_bg_beach",
+      "asset": "lensbooth/backgrounds/scene_beach.webp",
+      "thumbnail_url": "lenses/thumbs/lens_bg_beach.png",
+      "image_url": "lensbooth/backgrounds/scene_beach.webp",
+      "model": "bg_beach",
+      "colour_code": null
+    },
+    {
+      "id": "bg_birthday_party",
+      "name": "Birthday Party",
+      "type": "bg",
+      "thumbAsset": "lens_bg_birthday_party",
+      "asset": "lensbooth/backgrounds/scene_birthday_party.webp",
+      "thumbnail_url": "lenses/thumbs/lens_bg_birthday_party.png",
+      "image_url": "lensbooth/backgrounds/scene_birthday_party.webp",
+      "model": "bg_birthday_party",
+      "colour_code": null
+    },
+    {
+      "id": "bg_cozy_cafe",
+      "name": "Cozy Cafe",
+      "type": "bg",
+      "thumbAsset": "lens_bg_cozy_caf_",
+      "asset": "lensbooth/backgrounds/scene_cozy_caf_.webp",
+      "thumbnail_url": "lenses/thumbs/lens_bg_cozy_caf_.png",
+      "image_url": "lensbooth/backgrounds/scene_cozy_caf_.webp",
+      "model": "bg_cozy_cafe",
+      "colour_code": null
+    },
+    {
+      "id": "bg_amusement_park",
+      "name": "Amusement Park",
+      "type": "bg",
+      "thumbAsset": "lens_bg_amusement_park",
+      "asset": "lensbooth/backgrounds/scene_amusement_park.webp",
+      "thumbnail_url": "lenses/thumbs/lens_bg_amusement_park.png",
+      "image_url": "lensbooth/backgrounds/scene_amusement_park.webp",
+      "model": "bg_amusement_park",
+      "colour_code": null
+    },
+    {
+      "id": "bg_rooftop_sunset",
+      "name": "Rooftop Sunset",
+      "type": "bg",
+      "thumbAsset": "lens_bg_rooftop_sunset",
+      "asset": "lensbooth/backgrounds/scene_rooftop_sunset.webp",
+      "thumbnail_url": "lenses/thumbs/lens_bg_rooftop_sunset.png",
+      "image_url": "lensbooth/backgrounds/scene_rooftop_sunset.webp",
+      "model": "bg_rooftop_sunset",
+      "colour_code": null
+    },
+    {
+      "id": "bg_modern_studio",
+      "name": "Modern Studio",
+      "type": "bg",
+      "thumbAsset": "lens_bg_modern_studio",
+      "asset": "lensbooth/backgrounds/scene_modern_studio.webp",
+      "thumbnail_url": "lenses/thumbs/lens_bg_modern_studio.png",
+      "image_url": "lensbooth/backgrounds/scene_modern_studio.webp",
+      "model": "bg_modern_studio",
+      "colour_code": null
+    },
+    {
+      "id": "bg_rosie",
+      "name": "Rosie",
+      "type": "bg",
+      "thumbAsset": "lens_bg_rosie",
+      "asset": "lensbooth/backgrounds/scene_rosie.webp",
+      "thumbnail_url": "lenses/thumbs/lens_bg_rosie.png",
+      "image_url": "lensbooth/backgrounds/scene_rosie.webp",
+      "model": "bg_rosie",
+      "colour_code": null
+    },
+    {
+      "id": "bg_airport_lounge",
+      "name": "Airport Lounge",
+      "type": "bg",
+      "thumbAsset": "lens_bg_airport_lounge",
+      "asset": "lensbooth/backgrounds/scene_airport_lounge.webp",
+      "thumbnail_url": "lenses/thumbs/lens_bg_airport_lounge.png",
+      "image_url": "lensbooth/backgrounds/scene_airport_lounge.webp",
+      "model": "bg_airport_lounge",
+      "colour_code": null
+    },
+    {
+      "id": "bg_park_picnic",
+      "name": "Park Picnic",
+      "type": "bg",
+      "thumbAsset": "lens_bg_park_picnic",
+      "asset": "lensbooth/backgrounds/scene_park_picnic.webp",
+      "thumbnail_url": "lenses/thumbs/lens_bg_park_picnic.png",
+      "image_url": "lensbooth/backgrounds/scene_park_picnic.webp",
+      "model": "bg_park_picnic",
+      "colour_code": null
+    },
+    {
+      "id": "bg_school_hallway",
+      "name": "School Hallway",
+      "type": "bg",
+      "thumbAsset": "lens_bg_school_hallway",
+      "asset": "lensbooth/backgrounds/scene_school_hallway.webp",
+      "thumbnail_url": "lenses/thumbs/lens_bg_school_hallway.png",
+      "image_url": "lensbooth/backgrounds/scene_school_hallway.webp",
+      "model": "bg_school_hallway",
+      "colour_code": null
+    },
+    {
+      "id": "bg_subway",
+      "name": "Subway",
+      "type": "bg",
+      "thumbAsset": "lens_bg_subway",
+      "asset": "lensbooth/backgrounds/scene_subway.webp",
+      "thumbnail_url": "lenses/thumbs/lens_bg_subway.png",
+      "image_url": "lensbooth/backgrounds/scene_subway.webp",
+      "model": "bg_subway",
+      "colour_code": null
+    }
+  ]
+}

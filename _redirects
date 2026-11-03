@@ -1,0 +1,3 @@
+# Optional convenience redirects
+/frames  /frames.json  302
+/lenses  /lenses.json  302
