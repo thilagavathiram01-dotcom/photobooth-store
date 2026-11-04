@@ -3,43 +3,43 @@
   "categories": [
     {
       "id": "all",
-      "emoji": "\u2726"
+      "emoji": "✦"
     },
     {
       "id": "halloween",
-      "emoji": "\ud83c\udf83"
+      "emoji": "🎃"
     },
     {
       "id": "cute",
-      "emoji": "\ud83c\udf80"
+      "emoji": "🎀"
     },
     {
       "id": "doodle",
-      "emoji": "\u270f\ufe0f"
+      "emoji": "✏️"
     },
     {
       "id": "stars",
-      "emoji": "\u2b50"
+      "emoji": "⭐"
     },
     {
       "id": "prism",
-      "emoji": "\ud83c\udf08"
+      "emoji": "🌈"
     },
     {
       "id": "collage",
-      "emoji": "\ud83d\uddbc\ufe0f"
+      "emoji": "🖼️"
     },
     {
       "id": "instant",
-      "emoji": "\ud83d\udcf8"
+      "emoji": "📸"
     },
     {
       "id": "wedding",
-      "emoji": "\ud83d\udc8d"
+      "emoji": "💍"
     },
     {
       "id": "party",
-      "emoji": "\u2728"
+      "emoji": "✨"
     }
   ],
   "frames": [
