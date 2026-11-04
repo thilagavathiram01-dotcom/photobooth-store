@@ -165,7 +165,9 @@
       "model": "mintcrown",
       "colour_code": null,
       "thumbnail": "lenses/thumbs/lens_mintcrown.png",
-      "color_code": null
+      "color_code": null,
+      "overlay_url": "lenses/overlays/ar_mintcrown.webp",
+      "overlayAsset": "lenses/overlays/ar_mintcrown.webp"
     }
   ],
   "frames": [
