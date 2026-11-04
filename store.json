@@ -167,7 +167,11 @@
       "thumbnail": "lenses/thumbs/lens_mintcrown.png",
       "color_code": null,
       "overlay_url": "lenses/overlays/ar_mintcrown.webp",
-      "overlayAsset": "lenses/overlays/ar_mintcrown.webp"
+      "overlayAsset": "lenses/overlays/ar_mintcrown.webp",
+      "arAnchor": "FOREHEAD",
+      "arScaleX": 0.95,
+      "arOffsetX": 0.0,
+      "arOffsetY": -0.45
     }
   ],
   "frames": [
