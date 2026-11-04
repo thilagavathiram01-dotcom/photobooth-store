@@ -3,43 +3,43 @@
   "categories": [
     {
       "id": "all",
-      "emoji": "✦"
+      "emoji": "\u2726"
     },
     {
       "id": "halloween",
-      "emoji": "🎃"
+      "emoji": "\ud83c\udf83"
     },
     {
       "id": "cute",
-      "emoji": "🎀"
+      "emoji": "\ud83c\udf80"
     },
     {
       "id": "doodle",
-      "emoji": "✏️"
+      "emoji": "\u270f\ufe0f"
     },
     {
       "id": "stars",
-      "emoji": "⭐"
+      "emoji": "\u2b50"
     },
     {
       "id": "prism",
-      "emoji": "🌈"
+      "emoji": "\ud83c\udf08"
     },
     {
       "id": "collage",
-      "emoji": "🖼️"
+      "emoji": "\ud83d\uddbc\ufe0f"
     },
     {
       "id": "instant",
-      "emoji": "📸"
+      "emoji": "\ud83d\udcf8"
     },
     {
       "id": "wedding",
-      "emoji": "💍"
+      "emoji": "\ud83d\udc8d"
     },
     {
       "id": "party",
-      "emoji": "✨"
+      "emoji": "\u2728"
     }
   ],
   "frames": [
@@ -3381,6 +3381,49 @@
       "model": "cvpanel",
       "thumbnail": "frames/cvpanel.png",
       "color_code": "#FFFFFF"
+    },
+    {
+      "id": "mint-bloom",
+      "title": "Mint Bloom",
+      "file": "frames/mint-bloom.png",
+      "category": "doodle",
+      "aspect": 0.332207,
+      "whiteWindows": false,
+      "accentColor": "#2E9B8A",
+      "captionColor": "#FFFFFF",
+      "slots": [
+        {
+          "x1": 0.0627,
+          "y1": 0.0242,
+          "x2": 0.9373,
+          "y2": 0.2368
+        },
+        {
+          "x1": 0.0627,
+          "y1": 0.2553,
+          "x2": 0.9373,
+          "y2": 0.4682
+        },
+        {
+          "x1": 0.0644,
+          "y1": 0.4868,
+          "x2": 0.9381,
+          "y2": 0.6993
+        },
+        {
+          "x1": 0.0627,
+          "y1": 0.7176,
+          "x2": 0.9373,
+          "y2": 0.9302
+        }
+      ],
+      "image_url": "frames/mint-bloom.png",
+      "thumbnail_url": "frames/mint-bloom.png",
+      "colour_code": "#2E9B8A",
+      "caption_colour_code": "#FFFFFF",
+      "model": "mint-bloom",
+      "thumbnail": "frames/mint-bloom.png",
+      "color_code": "#2E9B8A"
     }
   ]
 }

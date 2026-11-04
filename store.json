@@ -154,6 +154,18 @@
       "colour_code": null,
       "thumbnail": "lenses/thumbs/lens_swag.png",
       "color_code": null
+    },
+    {
+      "id": "mintcrown",
+      "name": "Mint Crown",
+      "type": "ar",
+      "thumbAsset": "lens_mintcrown",
+      "thumbnail_url": "lenses/thumbs/lens_mintcrown.png",
+      "image_url": "lenses/thumbs/lens_mintcrown.png",
+      "model": "mintcrown",
+      "colour_code": null,
+      "thumbnail": "lenses/thumbs/lens_mintcrown.png",
+      "color_code": null
     }
   ],
   "frames": [
@@ -594,6 +606,49 @@
       "model": "soiree-neon",
       "thumbnail": "frames/soiree-neon.png",
       "color_code": "#FFFFFF"
+    },
+    {
+      "id": "mint-bloom",
+      "title": "Mint Bloom",
+      "file": "frames/mint-bloom.png",
+      "category": "doodle",
+      "aspect": 0.332207,
+      "whiteWindows": false,
+      "accentColor": "#2E9B8A",
+      "captionColor": "#FFFFFF",
+      "slots": [
+        {
+          "x1": 0.0627,
+          "y1": 0.0242,
+          "x2": 0.9373,
+          "y2": 0.2368
+        },
+        {
+          "x1": 0.0627,
+          "y1": 0.2553,
+          "x2": 0.9373,
+          "y2": 0.4682
+        },
+        {
+          "x1": 0.0644,
+          "y1": 0.4868,
+          "x2": 0.9381,
+          "y2": 0.6993
+        },
+        {
+          "x1": 0.0627,
+          "y1": 0.7176,
+          "x2": 0.9373,
+          "y2": 0.9302
+        }
+      ],
+      "image_url": "frames/mint-bloom.png",
+      "thumbnail_url": "frames/mint-bloom.png",
+      "colour_code": "#2E9B8A",
+      "caption_colour_code": "#FFFFFF",
+      "model": "mint-bloom",
+      "thumbnail": "frames/mint-bloom.png",
+      "color_code": "#2E9B8A"
     }
   ]
 }

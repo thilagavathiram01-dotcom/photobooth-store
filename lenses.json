@@ -449,6 +449,18 @@
       "colour_code": null,
       "thumbnail": "lenses/thumbs/lens_urban.png",
       "color_code": null
+    },
+    {
+      "id": "mintcrown",
+      "name": "Mint Crown",
+      "type": "ar",
+      "thumbAsset": "lens_mintcrown",
+      "thumbnail_url": "lenses/thumbs/lens_mintcrown.png",
+      "image_url": "lenses/thumbs/lens_mintcrown.png",
+      "model": "mintcrown",
+      "colour_code": null,
+      "thumbnail": "lenses/thumbs/lens_mintcrown.png",
+      "color_code": null
     }
   ],
   "backgrounds": [
